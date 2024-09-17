@@ -27,10 +27,10 @@
 
 ---
 
-## 🌍 Freelancing Projects
+## 🌍 Personal Projects
 
 <p align="center">
-  <strong>🔗 Check out my recent projects:</strong>
+  <strong>🔗 Check out my personal projects:</strong>
 </p>
 
 <p align="center">
