@@ -16,13 +16,13 @@
 <p align="center">
   <em>
     Passionate about crafting scalable web applications and exploring cutting-edge technologies. <br/>
-    Currently building innovative solutions with Next.js, Node.js, and modern web technologies.
+    Currently managing memesoar.com and building innovative solutions with Next.js, Node.js, and modern web technologies.
   </em>
 </p>
 
 <br/>
 
-<details>
+<details open>
 <summary><h2>🛠️ Tech Arsenal</h2></summary>
 
 #### Frontend Development
@@ -45,7 +45,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary><h2>📊 GitHub Analytics</h2></summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amankirmara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -57,37 +57,58 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><h2>🎯 Featured Projects</h2></summary>
 
 <div align="center">
 
+[![Memesoar](https://github-readme-stats.vercel.app/api/pin/?username=amankirmara&repo=memesoar&theme=tokyonight)](https://memesoar.com)
 [![WebGeniusCraft](https://github-readme-stats.vercel.app/api/pin/?username=amankirmara&repo=WebGeniusCraft&theme=tokyonight)](https://webgeniuscraft.netlify.app/)
 [![StudentPreLaunch](https://github-readme-stats.vercel.app/api/pin/?username=amankirmara&repo=StudentPreLaunch&theme=tokyonight)](https://studen-pre-launch.netlify.app/)
 
-🔥 **Latest Project: E-Commerce Platform**
-- Full-stack Next.js 14 application with App Router
-- Server Actions and React Server Components
-- Advanced authentication with Next-Auth
-- Real-time updates with WebSocket
-- Stripe integration for payments
-- Coming Soon...
+🔥 **Latest Projects**
+
+**Memesoar Platform** (Current)
+- Social platform for meme sharing and discovery
+- User authentication and profile management
+- Upload, share, and download functionality
+- Built with Next.js 14 and MongoDB
+- Optimized image handling with fallback support
+
+**Real-time Chat Application**
+- Live messaging with WebSocket integration
+- User presence and typing indicators
+- Message history and file sharing
+- Built with Next.js and Socket.io
+
+**QR Code Generator**
+- Dynamic QR code generation
+- Customizable designs and formats
+- Mobile-responsive interface
+- Built with Next.js and TailwindCSS
 
 </div>
 </details>
 
-<details>
+<details open>
 <summary><h2>🌟 Professional Experience</h2></summary>
 
-- **Freelance Full Stack Developer** (2023 - Present)
-  - Developed scalable web applications for clients worldwide
-  - Implemented modern authentication systems
-  - Optimized application performance and SEO
+- **Full Stack Developer & Platform Owner** (Current)
+  - Managing and developing memesoar.com
+  - Implementing robust user authentication systems
+  - Handling image processing and storage
+  - Optimizing performance and user experience
+  
+- **Freelance Full Stack Developer** (2+ years)
+  - Developed scalable web applications using Next.js 14/15
+  - Implemented Razorpay payment integrations
+  - Created responsive designs with TailwindCSS
+  - Built real-time features with WebSocket
   
 - **Open Source Contributor**
-  - Active contributor to various open-source projects
-  - Focus on Next.js and React ecosystem
-  - Building public utilities and libraries
+  - Active contributor to Next.js ecosystem
+  - Focus on performance optimization and UI components
+  - Building reusable utilities and libraries
 </details>
 
 <h2 align="center">🤝 Let's Connect</h2>
