@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amankirmara&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amankirmara?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=theamanone&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/theamanone?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 <br/>
@@ -48,12 +48,12 @@
 <details open>
 <summary><h2>📊 GitHub Analytics</h2></summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankirmara&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankirmara&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamanone&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankirmara&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamanone&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 </details>
 
@@ -62,9 +62,9 @@
 
 <div align="center">
 
-[![Memesoar](https://github-readme-stats.vercel.app/api/pin/?username=amankirmara&repo=memesoar&theme=tokyonight)](https://memesoar.com)
-[![WebGeniusCraft](https://github-readme-stats.vercel.app/api/pin/?username=amankirmara&repo=WebGeniusCraft&theme=tokyonight)](https://webgeniuscraft.netlify.app/)
-[![StudentPreLaunch](https://github-readme-stats.vercel.app/api/pin/?username=amankirmara&repo=StudentPreLaunch&theme=tokyonight)](https://studen-pre-launch.netlify.app/)
+[![Memesoar](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=memesoar&theme=tokyonight)](https://memesoar.com)
+[![WebGeniusCraft](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=WebGeniusCraft&theme=tokyonight)](https://webgeniuscraft.netlify.app/)
+[![StudentPreLaunch](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=StudentPreLaunch&theme=tokyonight)](https://studen-pre-launch.netlify.app/)
 
 🔥 **Latest Projects**
 
@@ -117,7 +117,7 @@
   <a href="https://www.linkedin.com/in/aman-kirmara-15692224b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/amankirmara">
+  <a href="https://github.com/theamanone">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/iaman_09_">
