@@ -49,7 +49,7 @@
 <summary><h2>📊 GitHub Analytics</h2></summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamanone&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theamanone&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -62,9 +62,8 @@
 
 <div align="center">
 
-[![Memesoar](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=memesoar&theme=tokyonight)](https://memesoar.com)
 [![WebGeniusCraft](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=WebGeniusCraft&theme=tokyonight)](https://webgeniuscraft.netlify.app/)
-[![StudentPreLaunch](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=StudentPreLaunch&theme=tokyonight)](https://studen-pre-launch.netlify.app/)
+[![QrStyle](https://github-readme-stats.vercel.app/api/pin/?username=theamanone&repo=qr_service&theme=tokyonight)](https://qrstyle.netlify.app/)
 
 🔥 **Latest Projects**
 
