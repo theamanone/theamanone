@@ -38,10 +38,10 @@ class LifeCode implements Developer {
 + Full Stack Developer | Cloud Architect | Problem Solver
 - Location: India | Status: Building the Future
 ! Currently: Leading Memesoar Platform Development
-# Contact: amankirmara@gmail.com
+
 ```
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Rocket.png" alt="Rocket" width="100" />
 
 </div>
 
