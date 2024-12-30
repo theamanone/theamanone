@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Aman+%F0%9F%91%8B;Building+the+Future+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF2D20&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Aman+%F0%9F%91%8B;Building+the+Future+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -104,9 +104,9 @@ class LifeCode implements Developer {
 
 <!-- Stats Matrix -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=theamanone&theme=radical&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theamanone&custom_title=Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=c9d1d9&area=true&area_color=6C63FF" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&ring_color=FF2D20" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=theamanone&theme=radical&hide_border=true&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theamanone&custom_title=Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=FF2D20&line=FF2D20&point=c9d1d9&area=true&area_color=FF2D20" width="98%" />
 </div>
 
 <!-- Connect Matrix -->
@@ -114,11 +114,11 @@ class LifeCode implements Developer {
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="150" />
   
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kirmara-15692224b)
-  [![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-6C63FF?style=for-the-badge&logo=browser&logoColor=white)](https://theamanone.vercel.app)
+  [![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-FF2D20?style=for-the-badge&logo=browser&logoColor=white)](https://theamanone.vercel.app)
   [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theamanone)
   [![Email](https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankirmara@gmail.com)
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theamanone&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=theamanone&color=FF2D20&style=flat-square&label=PROFILE+VIEWS" />
 </div>
