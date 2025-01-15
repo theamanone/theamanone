@@ -1,14 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF2D20&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Aman+%F0%9F%91%8B;Building+the+Future+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
 
-<div align="center">
-
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="200" /> -->
+<div >
 
 ```typescript
 class LifeCode implements Developer {
     private status: string = 'coding...';
     private coffee: number = Infinity;
-    
+
     public async function live(): Promise<void> {
         while (true) {
             await this.eat('🍕');    // Energy++
@@ -56,8 +54,8 @@ class LifeCode implements Developer {
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
-        <img width="12" />
+<!--         <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" /> -->
+<!--         <img width="12" /> -->
         <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
       </div>
       </td>
@@ -68,8 +66,8 @@ class LifeCode implements Developer {
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" />
-        <img width="12" />
+<!--         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" /> -->
+<!--         <img width="12" /> -->
         <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" />
       </div>
       </td>
@@ -80,8 +78,8 @@ class LifeCode implements Developer {
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" />
-        <img width="12" />
+<!--         <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" /> -->
+<!--         <img width="12" /> -->
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
       </div>
       </td>
@@ -97,9 +95,9 @@ class LifeCode implements Developer {
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Memesoar%20Platform&text2=Social%20Platform%20for%20Meme%20Sharing&width=800&height=100" alt="Memesoar">
   </a>
   <br>
-  <a href="https://qrstyle.netlify.app">
+<!--   <a href="https://qrstyle.netlify.app">
     <img src="https://svg-banners.vercel.app/api?type=luminance&text1=QR%20Style&text2=Dynamic%20QR%20Code%20Generator&width=800&height=100" alt="QR Style">
-  </a>
+  </a> -->
 </div>
 
 <!-- Stats Matrix -->
