@@ -66,11 +66,25 @@
 
 <div align="center">
   <a href="https://github.com/theamanone">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&ring_color=FF2D20" />
-  </a>
+  <img src="https://img.shields.io/badge/Contributions-408+-FF2D20?style=flat-square&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Repositories-76+-FF2D20?style=flat-square&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Followers-Growing-FF2D20?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Years%20Coding-5+-FF2D20?style=flat-square&logo=google-scholar" alt="Experience" />  </a>
   <a href="https://github.com/theamanone">
     <img width="49%" src="https://streak-stats.demolab.com?user=theamanone&theme=radical&hide_border=true&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" />
   </a>
+</div>
+
+### 📊 Advanced Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theamanone&theme=radical&hide_border=true&area=true&custom_title=Aman's%20GitHub%20Activity)
+
+---
+
+### 🎯 Top Languages & Stats
+
+<div align="center">
+  <img alt="Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamanone&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9" />
 </div>
 
 ---
