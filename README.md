@@ -1,122 +1,168 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FF2D20&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+Aman+%F0%9F%91%8B;Building+the+Future+%F0%9F%9A%80;Crafting+Digital+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
+# Hi there 👋, I'm Aman Kirmara
 
-<div >
+![Profile Views](https://komarev.com/ghpvc/?username=theamanone&label=Profile%20views&color=0e75b6&style=flat)
 
-```typescript
-class LifeCode implements Developer {
-    private status: string = 'coding...';
-    private coffee: number = Infinity;
+## 🚀 Full Stack Developer | SaaS Architect | Problem Solver
 
-    public async function live(): Promise<void> {
-        while (true) {
-            await this.eat('🍕');    // Energy++
-            await this.code('⌨️');   // Build++
-            await this.sleep('😴');  // Debug++
-            this.repeat();           // Level++
-        }
-    }
-}
-```
+**Building the future, one commit at a time** 💻
 
+### 📍 Location: India | 🔗 CEO: [Veliessa](https://veliessa.com) | 🎯 Status: Building the Future
+
+---
+
+## 🎯 About Me
+
+- 🔥 **Full-Stack Web Developer** crafting scalable SaaS solutions
+- 🎨 **UI/UX Designer** | **System Architect** | **Cloud Enthusiast**
+- 🚀 Building multiple SaaS platforms under the **Veliessa** umbrella
+- 💡 Passionate about **Next.js**, **React**, and modern cloud architecture
+- 🎓 Preparing for **CET Exam** (July 27, 2025)
+- 📚 Always learning and innovating
+
+### 🏆 Key Achievements
+
+- 🐙 **Pull Shark** - Merged 2 pull requests
+- 🚀 **YOLO** - Pushed code on a weekend
+- 📊 **408 Contributions** in 2025
+- 💼 **76+ Repositories** with diverse projects
+- 🌟 **2 Followers** | **10 Following**
+
+---
+
+## 💼 Tech Stack
+
+### Frontend Matrix
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" />
 </div>
 
-<!-- Innovative Banner -->
+### Backend Matrix
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="48" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" />
 </div>
 
-<!-- Matrix-style Stats -->
+### DevOps & Cloud Matrix
+
 <div align="center">
-  
-```diff
-+ Full Stack Developer | Cloud Architect | Problem Solver
-- Location: India | Status: Building the Future
-! Currently: Leading Memesoar Platform Development
-
-```
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Rocket.png" alt="Rocket" width="100" />
-
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" />
 </div>
 
-<!-- Skill Matrix -->
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-      <h3>Frontend Matrix</h3>
-      <div align="center">  
-        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
-        <img width="12" />
-<!--         <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" /> -->
-<!--         <img width="12" /> -->
-        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
-      </div>
-      </td>
-      <td valign="top" width="33%">
-      <h3>Backend Matrix</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
-        <img width="12" />
-<!--         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql" /> -->
-<!--         <img width="12" /> -->
-        <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis" />
-      </div>
-      </td>
-      <td valign="top" width="33%">
-      <h3>DevOps Matrix</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
-        <img width="12" />
-<!--         <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" /> -->
-<!--         <img width="12" /> -->
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-      </div>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<!-- Project Showcase -->
+## 📈 GitHub Statistics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Projects" width="100" />
-  <br>
-  <a href="https://memesoar.com">
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Memesoar%20Platform&text2=Social%20Platform%20for%20Meme%20Sharing&width=800&height=100" alt="Memesoar">
+  <a href="https://github.com/theamanone">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&ring_color=FF2D20" />
   </a>
-  <br>
-<!--   <a href="https://qrstyle.netlify.app">
-    <img src="https://svg-banners.vercel.app/api?type=luminance&text1=QR%20Style&text2=Dynamic%20QR%20Code%20Generator&width=800&height=100" alt="QR Style">
-  </a> -->
+  <a href="https://github.com/theamanone">
+    <img width="49%" src="https://streak-stats.demolab.com?user=theamanone&theme=radical&hide_border=true&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" />
+  </a>
 </div>
 
-<!-- Stats Matrix -->
+---
+
+## 🎯 Featured Projects
+
+### 🌟 Veliessa - Fashion & AI Platform
+Multi-brand SaaS ecosystem featuring fashion e-commerce, AI intelligence, and content streaming
+- **Tech**: Next.js 15, React, MongoDB, Vercel
+- **Status**: 🚀 Active Development
+
+### 🎬 Cinevo - Video Streaming Platform
+High-performance video streaming with DRM and content moderation
+- **Tech**: Next.js, HLS Streaming, Cloud Storage
+- **Status**: 🚀 In Production
+
+### 🤖 Styra - AI Fashion Intelligence
+AI-powered fashion recommendations and styling services
+- **Tech**: Next.js, AI/ML, Real-time Processing
+- **Status**: 🚀 Beta Testing
+
+### 📰 Vexa - News & Content Platform
+Dynamic content aggregation and distribution
+- **Tech**: Next.js, MongoDB, API Integration
+- **Status**: 🚀 Growing
+
+---
+
+## 🔧 Skills & Expertise
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, TypeScript, Python, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, Redux, Hooks |
+| **Backend** | Node.js, Express, MongoDB, Redis, Python |
+| **Databases** | MongoDB, PostgreSQL, Redis, Firebase |
+| **DevOps** | Docker, AWS, Vercel, GitHub Actions, CI/CD |
+| **Tools** | Git, VS Code, Windsurf, Canva, Cloudinary |
+| **Specialties** | System Design, API Design, Database Optimization, SEO, Video Streaming |
+
+---
+
+## 📊 Activity Graph
+
+![Aman's Activity Graph](https://activity-graph.herokuapp.com/graph?username=theamanone&theme=radical&hide_border=true&area=true)
+
+---
+
+## 🎓 Learning & Growth
+
+- 🎯 **Currently Learning**: Advanced React Patterns, Video Processing, Electron Framework
+- 📚 **Interview Prep**: Mastering React/Node.js technical interviews
+- 🔐 **Advanced Topics**: DRM Implementation, i18n Internationalization
+- 🚀 **Next Goals**: Scale Veliessa to 1M+ users, Launch Vlsa AI Model Service
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theamanone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&text_color=c9d1d9&ring_color=FF2D20" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=theamanone&theme=radical&hide_border=true&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theamanone&custom_title=Contribution%20Matrix&hide_border=true&bg_color=0d1117&color=FF2D20&line=FF2D20&point=c9d1d9&area=true&area_color=FF2D20" width="98%" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kirmara-15692224b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D20?style=for-the-badge&logo=firefox&logoColor=white)](https://theamanone.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theamanone)
+[![Email](https://img.shields.io/badge/Email-FF2D20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankirmara@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/theamanone)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amanstride)
+
 </div>
 
-<!-- Connect Matrix -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="150" />
-  
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kirmara-15692224b)
-  [![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-FF2D20?style=for-the-badge&logo=browser&logoColor=white)](https://theamanone.vercel.app)
-  [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theamanone)
-  [![Email](https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankirmara@gmail.com)
-</div>
+---
+
+## 💬 Open To
+
+- 🤝 Collaborating on **innovative SaaS projects**
+- 💼 Freelance **full-stack development** opportunities
+- 🎤 Speaking at tech meetups and conferences
+- 📧 Networking and knowledge sharing
+- 🚀 Building the **next big thing**
+
+---
+
+## 📝 Latest Blog & Updates
+
+```
+💡 "Excellence is not final, and failure is not fatal."
+    - It's the courage to continue that counts.
+```
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theamanone&color=FF2D20&style=flat-square&label=PROFILE+VIEWS" />
+  <sub>Crafted with ❤️ by <strong>Aman Kirmara</strong> | Updated: 2025</sub>
 </div>
