@@ -16,7 +16,6 @@
 - 🎨 **UI/UX Designer** | **System Architect** | **Cloud Enthusiast**
 - 🚀 Building multiple SaaS platforms under the **Veliessa** umbrella
 - 💡 Passionate about **Next.js**, **React**, and modern cloud architecture
-- 🎓 Preparing for **CET Exam** (July 27, 2025)
 - 📚 Always learning and innovating
 
 ### 🏆 Key Achievements
