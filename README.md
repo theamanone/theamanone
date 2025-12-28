@@ -77,14 +77,14 @@
 
 ### 📊 Advanced Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theamanone&theme=radical&hide_border=true&area=true&custom_title=Aman's%20GitHub%20Activity)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theamanone&theme=github-dark-dimmed&hide_border=true&area=true)
 
 ---
 
 ### 🎯 Top Languages & Stats
 
 <div align="center">
-  <img alt="Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamanone&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF2D20&text_color=c9d1d9" />
+  <img alt="Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamanone&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 ---
