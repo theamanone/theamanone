@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aman Kirmara
+# Hi there 👋, I'm Aman
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theamanone&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -132,7 +132,7 @@ Dynamic content aggregation and distribution
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kirmara-15692224b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/theamanone)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF2D20?style=for-the-badge&logo=firefox&logoColor=white)](https://theamanone.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theamanone)
 [![Email](https://img.shields.io/badge/Email-FF2D20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankirmara@gmail.com)
@@ -163,5 +163,4 @@ Dynamic content aggregation and distribution
 ---
 
 <div align="center">
-  <sub>Crafted with ❤️ by <strong>Aman Kirmara</strong> | Updated: 2025</sub>
-</div>
+  <sub>Crafted with ❤️ by <strong>Aman</strong> | Updated: 2025</sub></div>
